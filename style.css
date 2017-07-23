@@ -36,6 +36,8 @@ h1 {
 
 .container {
     max-width: 700px;
+    margin-top: 2em;
+    outline-style: none;
 }
 
 .square {
@@ -90,7 +92,4 @@ button:hover {
     font-size: 20px;
 }
 
-.container {
-    margin-top: 40px;
-    outline-style: none;
-}
+
