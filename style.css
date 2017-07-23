@@ -71,7 +71,8 @@ button {
     padding: 10px;
     font-weight: 800;
     font-family: 'Open Sans', sans-serif;
-    font-size: 4vmin;
+    font-size: 2vmax;
+    font-size: 3.4vmin;;
     outline: none;
     color: steelblue;
 }
