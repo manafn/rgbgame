@@ -89,7 +89,8 @@ button:hover {
     width: 30%;
     font-family: 'Open Sans', sans-serif;
     font-weight: normal;
-    font-size: 20px;
+    font-size: 4vmax;
+    font-size: 4vmin;
 }
 
 
